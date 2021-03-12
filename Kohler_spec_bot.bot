@@ -1,0 +1,61 @@
+{
+  "name": "Kohler_spec_bot",
+  "padlock": "NcS4XelwB9gghrioNC/ruQ==!6vyM2ra5lHt0WcA/MzdMzooyXWbvvXgMlqKjFg8EN7vNPYNyeKw9TEFmZfUUBsDe",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "56e74a31-ee36-4fb0-b589-5485c300bc7b",
+      "subscriptionId": "86c04aed-1845-4130-920d-cf7835f83df1",
+      "resourceGroup": "botforpizzarating",
+      "serviceName": "Kohler_spec_bot",
+      "type": "abs",
+      "name": "Kohler_spec_bot",
+      "id": "1"
+    },
+    {
+      "connectionString": "xcMtd2bBCM14BjvQjicYdw==!JGjn4K8wId6LR5bLjz7HzB9Ep5pdAiaKshS6k3QZfo7jf8x5oUKO/iO58B64T3sL84Vy5979yqG06e1aqGyvQIUpBMtHkKBdtidoaSKPDXd4w+hjNxmpTA0anfzuJos9T57tk+/W6gOgk5MV5sa31gVBQI7Ib1YhTuU9rDQKfjSls0JiUMh/lfN8zXqrQOMCXwY7cMpXtvnCVafbuUYsGDVquXBnKWw5Y/Ylzqxe0So=",
+      "tenantId": "56e74a31-ee36-4fb0-b589-5485c300bc7b",
+      "subscriptionId": "86c04aed-1845-4130-920d-cf7835f83df1",
+      "resourceGroup": "botforpizzarating",
+      "serviceName": "kohlerspecbotb463",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "1ac23d49-ac8a-42ac-9ebe-7ee23a2beaeb",
+      "appPassword": "Iu5cFPg8iSrOfMY+0Lwm/A==!Brn3evYnC2m4j9xJzErYNUAQtQ2EXm8LbWKvKEtIJtY=",
+      "endpoint": "https://kohlerspecbot.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "LcKZHbE931o7wx5Cyc6ZEw==!8pZ2X/GkC13HFmOPaAV8Ye/SHPfjWsB1Nl/01ku+ZoSdies75d8h6igBUUxAC0UG",
+      "applicationId": "a0a69019-c5d5-4c0b-abcd-2c4aaa9d4636",
+      "apiKeys": {},
+      "tenantId": "56e74a31-ee36-4fb0-b589-5485c300bc7b",
+      "subscriptionId": "86c04aed-1845-4130-920d-cf7835f83df1",
+      "resourceGroup": "botforpizzarating",
+      "serviceName": "Kohler_spec_botupq4uj",
+      "type": "appInsights",
+      "id": "5"
+    },
+    {
+      "appId": "faab1fd5-5af8-4503-9efd-cf5bb4e2ae6f",
+      "authoringKey": "8jYr7Yukx0ImK4TFnlekkg==!lXOZX3VhkTDnizC5Tu+8OQOcgPO2JC4ZsLSivtfCto94CRJVTu12HK2kyu8SQcuq",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "6"
+    }
+  ]
+}
